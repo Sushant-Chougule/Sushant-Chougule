@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/search?q=developer+heading+gif&tbm=isch&ved=2ahUKEwjj6oLSgI2DAxV_TWwGHeJUASAQ2-cCegQIABAA&oq=developer+heading+gif&gs_lcp=CgNpbWcQAzoECCMQJ1CHDViHDWDfD2gAcAB4AIABhgGIAYkCkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=4PJ5ZeP6GP-aseMP4qmFgAI&bih=742&biw=1519&hl=en#imgrc=hMtS0xCgm_1cRM)]
 <h1 align="center">Hi 👋, I'm Sushant Chougule</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
