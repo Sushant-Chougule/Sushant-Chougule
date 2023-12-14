@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-chougule&label=Profile%20views&color=0e75b6&style=flat" alt="sushant-chougule" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sschougule" target="blank"><img src="https://img.shields.io/twitter/follow/sschougule?logo=twitter&style=for-the-badge" alt="sschougule" /></a> </p>
-
 - 🌱 I’m currently learning **MERN, React Native**
 
 - 👨‍💻 All of my projects are available at [https://sushantchouguleportfolio.netlify.app/](https://sushantchouguleportfolio.netlify.app/)
